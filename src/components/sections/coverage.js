@@ -138,7 +138,10 @@ const Coverage = ({ table, ...props }) => {
             </div>
           </div>
         </div>
+      </div>
+      <div id="map" />
 
+      <div className="container mt-5">
         {table && (
           <div className="row mb-5">
             <div className="col-12 m-auto">
@@ -188,8 +191,6 @@ const Coverage = ({ table, ...props }) => {
           </div>
         )}
       </div>
-
-      <div id="map" />
     </section>
   )
 }

@@ -31,10 +31,6 @@ const services = [
     title: "Send Money",
     link: "/send-money",
   },
-  //   {
-  //     title: "Send Food",
-  //     link: "/send-food",
-  //   },
   {
     title: "Fund ZipWallet",
     link: "/wallet",
@@ -50,7 +46,6 @@ const services = [
   {
     title: "Security",
     link: "/guides/security",
-    external: true,
   },
 ]
 

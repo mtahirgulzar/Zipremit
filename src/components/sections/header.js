@@ -8,15 +8,18 @@ import { Link, Trans, useI18next } from "gatsby-plugin-react-i18next"
 import links from "navigation/header"
 import { LOGIN, REGISTER } from "utilities/urls"
 
-import logo from "images/logos/logo.png";
+import logo from "images/logos/logo.png"
 
 const Header = ({ className }) => {
-  const { changeLanguage, t } = useI18next();
-  const crntLang = (useI18next().language);
+  const { changeLanguage, t } = useI18next()
+  const crntLang = useI18next().language
   return (
     <header className={className}>
       <div className={crntLang === "fr" ? "container-fluid" : "container"}>
-        <Navbar expand="lg">
+        <Navbar
+          expand="lg"
+          
+        >
           <Link to="/">
             <Navbar.Brand>
               <img src={logo} alt="ZipRemit" width="130" />
@@ -31,7 +34,11 @@ const Header = ({ className }) => {
 
           <Navbar.Collapse id="navbar" className="row">
             <div className="col-sm-10 text-center">
-              <Nav as="ul" className="d-inline-flex" onSelect={(eventKey) => changeLanguage(eventKey)}>
+              <Nav
+                as="ul"
+                className="d-inline-flex"
+                onSelect={eventKey => changeLanguage(eventKey)}
+              >
                 {links.map((item, index) => (
                   <li key={index}>
                     <Link to={item.link} className="nav-link">
@@ -84,11 +91,11 @@ const Header = ({ className }) => {
 }
 
 Header.defaultProps = {
-  className: "primary"
+  className: "primary",
 }
 
 Header.propTypes = {
-  className: PropTypes.string
+  className: PropTypes.string,
 }
 
 export default Header

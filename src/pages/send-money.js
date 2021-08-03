@@ -217,12 +217,12 @@ const SendMoneyPage = ({ data }) => {
             </h2>
           </div>
           <div className="col-md-4 text-center">
-            <Link
-              to="/en/register"
+            <a
+              href="https://zipcoinremit.com/en/register"
               className="btn btn-outline-light text-nowrap ml-md-4"
             >
               <Trans>Sign up Now </Trans>
-            </Link>
+            </a>
           </div>
         </div>
       </Background>
