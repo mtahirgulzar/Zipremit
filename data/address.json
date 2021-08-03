@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "envelope",
+    "heading": "Email Address",
+    "description": "<a href='mailto:info@zipcoinremit.com'>info@zipcoinremit.com</a>"
+  },
+  {
+    "icon": "phone",
+    "heading": "Phone Number",
+    "description": "<a href='tel:+403-389-8231'>+403-389-8231</a>"
+  },
+  {
+    "icon": "globe",
+    "heading": "Website",
+    "description": "<a href='https://www.zipremit.com'>www.zipremit.com</a>"
+  },
+  {
+    "icon": "map-marker-alt",
+    "heading": "Our Mailing Address",
+    "description": "P. O BOX 40768, #20-12192 Symons Valley Rd, NW, Calgary, AB, T3P 0A0, Canada"
+  },
+  {
+    "icon": "map-marker-alt",
+    "heading": "Physical Address",
+    "description": "ZIPCOIN REMIT HQ (D21), 191-260300 Writing Creek Crescent, Rocky View County, Alberta T4A 0X8, Canada"
+  }
+]

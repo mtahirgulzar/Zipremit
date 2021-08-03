@@ -1,0 +1,68 @@
+[
+  {
+    "flag": "./photos/flags/canada.png",
+    "price1": "4.99",
+    "price2": "8.99",
+    "price3": "3.5%",
+    "country": "CANADA",
+    "currency": {
+      "code": "CAD",
+      "symbol": "$"
+    }
+  },
+  {
+    "flag": "./photos/flags/us.png",
+    "price1": "3.99",
+    "price2": "6.99",
+    "price3": "3.5%",
+    "country": "USA",
+    "currency": {
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "flag": "./photos/flags/uk.png",
+    "price1": "2.99",
+    "price2": "4.99",
+    "price3": "3.5%",
+    "country": "UK",
+    "currency": {
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  {
+    "flag": "./photos/flags/europe.png",
+    "price1": "3.99",
+    "price2": "5.99",
+    "price3": "3.5%",
+    "country": "EUROPE",
+    "currency": {
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "flag": "./photos/flags/south-africa.png",
+    "price1": "66.00",
+    "price2": "117.00",
+    "price3": "3.5%",
+    "country": "SOUTH AFRICA",
+    "currency": {
+      "code": "ZAR",
+      "symbol": "ZAR"
+    }
+  },
+   {
+    "flag": "./photos/flags/australia.png",
+    "price1": "4.9",
+    "price2": "8.99",
+    "price3": "3.5%",
+    "country": "AUSTRALIA",
+    "currency": {
+      "code": "AUD",
+      "symbol": "$"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "globe",
+    "stat": "180+",
+    "title": "Countries"
+  },
+  {
+    "icon": "dollar-sign",
+    "stat": "120",
+    "title": "Currencies"
+  },
+  {
+    "icon": "users",
+    "stat": "2.5M",
+    "title": "Users"
+  },
+  {
+    "icon": "life-ring",
+    "stat": "24X7",
+    "title": "Support"
+  }
+]

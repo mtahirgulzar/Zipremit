@@ -1,0 +1,30 @@
+[
+  {
+    "type": "ZipCash",
+    "description": "every reward point you earn builds up your Rita cash. The money you spend with us the more ZipCash we reward you with. So start sending."
+  },
+  {
+    "type": "CAD",
+    "description": "this wallet holds your Canadian dollars."    
+  },
+  {
+    "type": "USD",
+    "description": "this wallet holds your USD dollars."
+  },
+  {
+    "type": "GBP",
+    "description": "this wallet holds your pounds."
+  },
+  {
+    "type": "EUR",
+    "description": "this wallet holds your European money."
+  },
+  {
+    "type": "ZAR",
+    "description": "this wallet holds your South African rand money"
+  },
+   {
+    "type": "AUD",
+    "description": "this wallet holds your Australian Dollars"
+  }
+]

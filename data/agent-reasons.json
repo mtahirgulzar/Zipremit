@@ -1,0 +1,26 @@
+[
+  {
+    "image": "./photos/agent/delivery.png",
+    "heading": "Secure Delivery"
+  },
+  {
+    "image": "./photos/agent/transfers.png",
+    "heading": "Fast Transfers"
+  },
+  {
+    "image": "./photos/agent/protection.png",
+    "heading": "Customer Protection"
+  },
+  {
+    "image": "./photos/agent/transparency.png",
+    "heading": "Low Cost Fees & Transparency"
+  },
+  {
+    "image": "./photos/agent/rewards.png",
+    "heading": "High Rewards"
+  },
+  {
+    "image": "./photos/agent/satisfaction.png",
+    "heading": "Customer Satisfaction"
+  }
+]

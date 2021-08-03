@@ -1,0 +1,26 @@
+[
+  {
+    "method": "Cash",
+    "icon": "money-bill-alt"
+  },
+  {
+    "method": "ZipWallet",
+    "icon": "wallet"
+  },
+  {
+    "method": "Bank Deposit",
+    "icon": "university"
+  },
+  {
+    "method": "Mobile Money",
+    "icon": "university"
+  },
+  {
+    "method": "Airtime TopUp",
+    "icon": "mobile"
+  },
+  {
+    "method": "ZipFood (Zimbabwe Only)",
+    "icon": "shopping-basket"
+  }
+]

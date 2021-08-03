@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Student Mentoring",
+    "image": "./photos/foundation/students.jpg"
+  },
+  {
+    "title": "Women & Youth Empowerment",
+    "image": "./photos/foundation/women.jpg"
+  },
+  {
+    "title": "Volunteering Work",
+    "image": "./photos/foundation/volunteering.jpg"
+  },
+  {
+    "title": "Community Engagement",
+    "image": "./photos/foundation/community.jpg"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "image": "./photos/pickup/call.png",
+    "heading": "Call Ahead",
+    "description": "Learn the company’s business hours, and choose a safe time to pick up your cash. Daylight hours are best."
+  },
+  {
+    "image": "./photos/pickup/crime.png",
+    "heading": "Avoid High Crime Area",
+    "description": "If you have the option of choosing a pickup location, find one in a neighbourhood you know."
+  },
+  {
+    "image": "./photos/pickup/friend.png",
+    "heading": "Bring Along A Fried",
+    "description": "Carrying money alone can make you more vulnerable to theft."
+  },
+  {
+    "image": "./photos/pickup/hidden.png",
+    "heading": "Keep Your Cash Hidden",
+    "description": "To avoid being a target, put your money in a wallet or purse before leaving the office."
+  },
+  {
+    "image": "./photos/pickup/deposit.png",
+    "heading": "Deposit Your Money Immediately",
+    "description": "The likelihood of losing your money to theft or simple carelessness grows the longer you have it with you. Go straight to a bank to deposit your cash."
+  }
+]

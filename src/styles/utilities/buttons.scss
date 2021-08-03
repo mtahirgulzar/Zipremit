@@ -1,0 +1,12 @@
+.btn-apply {
+  width: 100px;
+  color: white;
+  font-weight: 700 !important;
+  background-color: var(--secondary);
+  border-color: var(--secondary);
+  border-radius: 50rem !important;
+
+  &:hover {
+    color: white;
+  }
+}

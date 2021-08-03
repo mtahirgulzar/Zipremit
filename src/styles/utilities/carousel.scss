@@ -1,0 +1,25 @@
+.owl-carousel {
+  .owl-stage-outer {
+    .owl-stage {
+      display: flex;
+
+      .owl-item {
+        display: flex;
+        flex: 1 0 auto;
+        height: auto !important;
+      }
+    }
+  }
+}
+
+.testimonial {
+  background: #c88c3954;
+  border: 1px solid #f1f5f6;
+  -webkit-box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.05);
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  padding: 1.5rem !important;
+  text-align: center !important;
+  border-radius: .25rem !important;
+}

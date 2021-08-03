@@ -1,0 +1,235 @@
+[{
+        "id": "BD",
+        "country": "Bangladesh",
+        "mobile": "bKash",
+        "bank": "BRAC bank",
+        "zipwallet": "Yes",
+        "agent": "",
+        "pickup": "Bangladesh Bank"
+    },
+    {
+        "id": "BJ",
+        "country": "Benin",
+        "mobile": "MTN, Airtel",
+        "bank": "UBA, CoraBank, CBAO, Ecobank, BAIC, BSIC, Coris Bank, Bank of Africa",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "All Banks"
+    },
+    {
+        "id": "BW",
+        "country": "Botswana",
+        "mobile": "Moov",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "BF",
+        "country": "Burkina Faso",
+        "mobile": "MTN",
+        "bank": "UBA, Cora Bank, CBAO, EcoBank, BAIC, BSIC, Coris Bank, Bank of Africa",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "All Banks"
+    },
+    {
+        "id": "BI",
+        "country": "Burundi",
+        "mobile": "MTN, Econet",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "CM",
+        "country": "Cameroon",
+        "mobile": "MTN, Orange, Nexttel",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "TD",
+        "country": "Chad",
+        "mobile": "Airtel",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "ML",
+        "country": "Mali",
+        "mobile": "Orange, Africell",
+        "bank": "BNDA, OraBank, Ecobank, Bank of Africa, BSIC",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "All Banks"
+    },
+    {
+        "id": "CG",
+        "country": "Congo",
+        "mobile": "MTN, Airtel",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "CD",
+        "country": "DRC",
+        "mobile": "Orange, Airtel, Supercell, Africell, Vodocom",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "CI",
+        "country": "Ivory Coast",
+        "mobile": "Airtel",
+        "bank": "Citibank, Ecobank, Bank of Africa, CIBC, UBA, GTA Bank, Coris Bank",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "All Banks"
+    },
+    {
+        "id": "GM",
+        "country": "Gambia",
+        "mobile": "MTN",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "GA",
+        "country": "Gabon",
+        "mobile": "MTN",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "GH",
+        "country": "Ghana",
+        "mobile": "Airtel, MTN, Togo, Vodafone",
+        "bank": "Access Bank, Ecobank, Bank of Africa, CIBC, UBA, BSIC, Cal Bank, GTA Bank, Coris Bank",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "All Banks"
+    },
+    {
+        "id": "GN",
+        "country": "Guinea",
+        "mobile": "MTN, Orange, Cellcom",
+        "bank": "BAO, Ecobank, Orabank",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "KE",
+        "country": "Kenya",
+        "mobile": "Safaricom, Orange, Airtel",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "MW",
+        "country": "Malawi",
+        "mobile": "Vodafone",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "NP",
+        "country": "Nepal",
+        "mobile": "None",
+        "bank": "All Banks",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "Over 5700 Locations"
+    },
+    {
+        "id": "NE",
+        "country": "Niger",
+        "mobile": "MTN, Moov, Airtel",
+        "bank": "BIA Niger, CoraBank, CBAO, Ecobank, Soni Bank, BSIC, Coris Bank, Bank of Africa, BIM s.a",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "All Banks"
+    },
+    {
+        "id": "NG",
+        "country": "Nigeria",
+        "mobile": "Etisalat, MTN, Glo, Airtel",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "RW",
+        "country": "Rwanda",
+        "mobile": "MTN, Airtel",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "SN",
+        "country": "Senegal",
+        "mobile": "Tigo, Orange",
+        "bank": "BICIS, BIMAO, Bank of Africa",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "All Banks"
+    },
+    {
+        "id": "TZ",
+        "country": "Tanzania",
+        "mobile": "Tigo",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "UG",
+        "country": "Uganda",
+        "mobile": "MTN, Airtel",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "ZM",
+        "country": "Zambia",
+        "mobile": "MTN",
+        "bank": "None",
+        "zipwallet": "Yes",
+        "agent": "None",
+        "pickup": "None"
+    },
+    {
+        "id": "ZW",
+        "country": "Zimbabwe",
+        "mobile": "Econet",
+        "bank": "BANC abc",
+        "zipwallet": "Yes",
+        "agent": "Kebab Enterprise, Avondale, Borrowdale, Newlands",
+        "pickup": "BANC abc"
+    }
+]

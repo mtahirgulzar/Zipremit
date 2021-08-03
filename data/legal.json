@@ -1,0 +1,41 @@
+[
+  {
+    "image": "./photos/legal/kudzai.jpg",
+    "name": "KUDZAI CAROLINE TANDI",
+    "title": "(BACHELOR OF LAWS (HONOURS) DEGREE (LLBS) | LEGAL COUNSEL)",
+    "social": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/kudzai-caroline-tandi-90502b116/"
+      }
+    ]
+  },
+  {
+    "image": "./photos/legal/emmanuel.jpg",
+    "name": "EMMANUEL BUTARE",
+    "title": "(LLB (Hons), LLM POST DIPLOMA IN LEGAL PRACTICE | CERTIFICATE IN GLOBAL ARBITRATION | INTERNATION OF BUSINESS STUDIES)",
+    "social": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/emmanuel-butare-llm-a0053844/"
+      }
+    ]
+  },
+  {
+    "image": "./photos/legal/nicholas.jpg",
+    "name": "NICHOLAS WAMBUA NGUMBI",
+    "title": "(LL.M | POST GRADUATE DIPLOMA IN LAW | (LL.B) | CERTIFIED PUBLIC ACCOUNTANT- KE)",
+    "social": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/company/nicholas-ngumbi-advocates/about/"
+      }
+    ]
+  },
+  {
+    "image": "./photos/legal/joan.jpg",
+    "name": "JOAN NYAMPONG ELLIS",
+    "title": "(BA | LLB | LEGAL COUNSEL)",
+    "social": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "image": "./photos/telcos/airtel.png"
+  },
+  {
+    "image": "./photos/telcos/bell.png"
+  },
+  {
+    "image": "./photos/telcos/bellmobility.png"
+  },
+  {
+    "image": "./photos/telcos/econet.png"
+  },
+  {
+    "image": "./photos/telcos/freedom.png"
+  },
+  {
+    "image": "./photos/telcos/mobilink.png"
+  },
+  {
+    "image": "./photos/telcos/mpesa.png"
+  },
+  {
+    "image": "./photos/telcos/mtn.png"
+  },
+  {
+    "image": "./photos/telcos/nextel.png"
+  },
+  {
+    "image": "./photos/telcos/rogers.png"
+  }
+]

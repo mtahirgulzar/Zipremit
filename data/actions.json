@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "share-square",
+    "heading": "Send Money",
+    "link": "/"
+  },
+  {
+    "icon": "check-square",
+    "heading": "Track Money",
+    "link": "/"
+  },
+  {
+    "icon": "money-check-alt",
+    "heading": "Send ZipCash",
+    "link": "/"
+  },
+  {
+    "icon": "mobile",
+    "heading": "Airtime TopUp",
+    "link": "/"
+  },
+  {
+    "icon": "wallet",
+    "heading": "Find ZipWallet",
+    "link": "/"
+  },
+  {
+    "icon": "shopping-basket",
+    "heading": "Send Food",
+    "link": "/"
+  }
+]

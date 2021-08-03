@@ -1,0 +1,51 @@
+[
+  {
+    "image": "./photos/team/eddie.jpg",
+    "name": "EDDIE ZVIITWAH",
+    "title": "(CHIEF BUSINESS ADVISOR)"
+  },
+  {
+    "image": "./photos/advisors/sean.jpg",
+    "name": "SEAN MONAGHAN",
+    "title": "(GDM, ACMA, CGMA, CMA, FCI | FINANCE ADVISOR)",
+    "social": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/sean-monaghan-212b1012/"
+      }
+    ]
+  },
+  {
+    "image": "./photos/advisors/paige.jpg",
+    "name": "PAIGE (PADRON) MILES",
+    "title": "(CGA, CPA, CIA | AUDIT ADVISOR)",
+    "social": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/paige-miles-cga-cpa-cia-b3674136/"
+      }
+    ]
+  },
+  {
+    "image": "./photos/advisors/wayne.jpg",
+    "name": "WAYNE LOGAN",
+    "title": "(BACHELOR OF LAWS (HONOURS) DEGREE (LLBS) | LEGAL ADVISOR)",
+    "social": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/wayneloganmt/"
+      }
+    ]
+  },
+  {
+    "image": "./photos/advisors/simon.jpg",
+    "name": "SIMON COCKING",
+    "title": "(PR, MEDIA & PUBLICATION ADVISOR)",
+    "social": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/simon-cocking-20540135/"
+      }
+    ]
+  }
+]

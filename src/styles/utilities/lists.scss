@@ -1,0 +1,253 @@
+// list style types
+.list-style-type-lower-roman {
+  list-style-type: lower-roman;
+}
+
+.list-style-type-none {
+  list-style-type: none;
+}
+
+.list-style-type-circle {
+  list-style-type: circle;
+}
+
+// norms list
+.norms {
+  li {
+    width: 100%;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+
+    svg {
+      padding: 5px;
+      font-size: 24px;
+      font-weight: 900;
+      color: #d4c0a3;
+      border: 1px solid #d4c0a3;
+      border-radius: 5px;
+      margin-right: 12px;
+    }
+  }
+}
+
+// why us - Airtime TopUp
+.airtime-why {
+  li {
+    width: 100%;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+
+    svg {
+      margin-right: 12px;
+    }
+  }
+
+  ul {
+    li {
+      &::before {
+        content: "-";
+        margin-right: 8px;
+      }
+    }
+  }
+}
+
+// social icons list
+.social-icons {
+  margin: 0;
+  padding: 0;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: center;
+
+  &.social-icons-sm {
+    li {
+      margin: 0px 4px 4px;
+
+      a {
+        font-size: 14px;
+      }
+    }
+  }
+
+  &.social-icons-lg {
+    li {
+      a {
+        width: 34px;
+        height: 34px;
+        line-height: 34px;
+        font-size: 22px;
+      }
+    }
+  }
+
+  &.social-icons-colored {
+    li:hover a {
+      color: #999;
+    }
+
+    .facebook-f a {
+      color: #3B5998;
+    }
+
+    .twitter a {
+      color: #00ACEE;
+    }
+
+    .linkedin-in a {
+      color: #0E76A8;
+    }
+
+    .youtube a {
+      color: #C4302B;
+    }
+
+    .instagram a {
+      color: #3F729B;
+    }
+  }
+
+  li {
+    margin: 0px 6px 4px;
+    padding: 0;
+    overflow: visible;
+
+    &:last-child {
+      margin-right: 0px;
+    }
+
+    &:hover {
+      a {
+        color: #999;
+      }
+
+      &.linkedin a {
+        color: #0E76A8;
+      }
+    }
+
+    a {
+      display: block;
+      height: 26px;
+      line-height: 26px;
+      width: 26px;
+      font-size: 18px;
+      text-align: center;
+      color: #4d555a;
+      text-decoration: none;
+      -webkit-transition: all 0.2s ease;
+      transition: all 0.2s ease;
+    }
+  }
+}
+
+// ratings list
+.ratings {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+
+  li {
+    margin-right: 4px;
+    color: var(--primary);
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+// Foundation Goals
+.goals {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+
+  li {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--primary);
+    padding-bottom: 4px;
+    margin-top: 4px;
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
+
+.timeline {
+  list-style: none;
+  padding: 5px 20px;
+  padding-right: 0;
+  margin-bottom: 0;
+  border-left: 5px solid #303549;
+
+  li {
+    position: relative;
+    margin-bottom: .5rem;
+    padding-bottom: 13px;
+
+    &::after {
+      content: "";
+      width: 15px;
+      height: 15px;
+      display: block;
+      border: 2px solid;
+      border-radius: 8px;
+      background: #fbe198;
+      position: absolute;
+      top: 8px;
+      left: -30px;
+    }
+
+    p {
+      color: #495057;
+      font-weight: 700;
+      margin-bottom: 0;
+
+      span {
+        font-weight: 500;
+      }
+
+      select {
+        margin: 0;
+        width: 142px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 3px;
+        margin-right: 10px;
+        border: none;
+        color: #fff;
+        background: #343a40;
+        height: 26px !important;
+        min-height: 0;
+        font-size: 13px;
+
+        &:focus {
+          outline: none;
+        }
+      }
+    }
+
+    input {
+      margin: 0;
+      width: 142px;
+      font-weight: 900;
+      border-radius: 3px;
+      padding: 6px 12px;
+      border: 1px solid #CCC;
+    }
+  }
+}

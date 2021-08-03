@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Essential",
+    "categories": "Hampers",
+    "reviews": 1,
+    "ratings": 5,
+    "prices": {
+      "actual": "50.00",
+      "discount": "-10.00",
+      "total": "40.00"
+    },
+    "images": [
+      {"image": "./photos/food/essential/1.jpg"},
+      {"image": "./photos/food/essential/3.jpg"},
+      {"image": "./photos/food/essential/4.png"},
+      {"image": "./photos/food/essential/7.jpg"},
+      {"image": "./photos/food/essential/10.jpg"}
+    ],
+    "items": [
+      {"item": "2kg Sugar"},
+      {"item": "2L Cooking Oil"},
+      {"item": "2kg Rice"},
+      {"item": "1kg salt"},
+      {"item": "2kg Flour"},
+      {"item": "5kg Hupfu"},
+      {"item": "500gm vaseline"},
+      {"item": "1x Bath Soap"},
+      {"item": "1x Bar Soap"},
+      {"item": "1x Tea Bags"},
+      {"item": "1x Cartoon Candles"},
+      {"item": "1x Cartoon Matches"}
+    ]
+  },
+  {
+    "title": "Standard",
+    "categories": "Hampers",
+    "reviews": 1,
+    "ratings": 5,
+    "prices": {
+      "actual": "100.00",
+      "discount": "-10.00",
+      "total": "90.00"
+    },
+    "images": [
+      {"image": "./photos/food/standard/1.png"},
+      {"image": "./photos/food/standard/2.jpg"},
+      {"image": "./photos/food/standard/3.jpg"},
+      {"image": "./photos/food/standard/4.jpg"},
+      {"image": "./photos/food/standard/4.jpg"},
+      {"image": "./photos/food/standard/4.jpg"}
+    ],
+    "items": [
+      {"item": "4kg Sugar"},
+      {"item": "2L Cooking Oil"},
+      {"item": "2kg Flour"},
+      {"item": "2kg Rice"},
+      {"item": "2kg Salt"},
+      {"item": "10kg hupfu"},
+      {"item": "500gm vaseline"},
+      {"item": "2x Bar Soaps"},
+      {"item": "2x Bath Soaps"},
+      {"item": "1x Box Teabags"},
+      {"item": "1x Cartoon Candles"},
+      {"item": "10x Cartoon Matches"},
+      {"item": "250gm Margarine"},
+      {"item": "2x 2L mazowe"},
+      {"item": "2x cans beef"},
+      {"item": "2x cans beans"},
+      {"item": "2x cans star sardines"},
+      {"item": "1x spaghetti"},
+      {"item": "1x macaroni"},
+      {"item": "1x 100ml toothpaste"},
+      {"item": "5x toilet paper"},
+      {"item": "1x 750gm mayonnaise"},
+      {"item": "1x 500gm dried sugar beans"}
+    ]
+  },
+  {
+    "title": "Luxury",
+    "categories": "Hampers",
+    "reviews": 1,
+    "ratings": 5,
+    "prices": {
+      "actual": "175.00",
+      "discount": "-10.00",
+      "total": "165.00"
+    },
+    "images": [
+      {"image": "./photos/food/luxury/1.png"},
+      {"image": "./photos/food/luxury/2.png"}
+     
+    ],
+    "items": [
+      {"item": "2x 5L cooking oil"},
+      {"item": "1x 10kg sugar"},
+      {"item": "1x 2kg flour"},
+      {"item": "1x 2kg rice"},
+      {"item": "1x 2kg salt"},
+      {"item": "1x 12.5kg hupfu"},
+      {"item": "1x 500g vaseline"},
+      {"item": "2x bar soaps"},
+      {"item": "2x bath soaps"},
+      {"item": "1x box teabags"},
+      {"item": "2x cartoon candles"},
+      {"item": "2x carton matches"},
+      {"item": "1x 250g margarine"},
+      {"item": "2x 2L coke or 32x2L mazowe"},
+      {"item": "3 cans beef"},
+      {"item": "3 cans beans"},
+      {"item": "3 cans star sardines "},
+      {"item": "2x spaghetti"},
+      {"item": "2x macaroni"},
+      {"item": "2x 100ml toothpaste"},
+      {"item": "5x toilet paper"},
+      {"item": "2x 750g mayonnaise"},
+      {"item": "2x 500g dried sugar beans"},
+      {"item": "1x 2k washing powder"},
+      {"item": "1x crate of eggs"},
+      {"item": "1x jam"},
+      {"item": "2x cremora"},
+      {"item": "1x tomato sauce"},
+      {"item": "2x soup"},
+      {"item": "1x peanut butter"},
+      {"item": "1x camphor"},
+      {"item": "10 maxi pads"}
+    ]
+  }
+]

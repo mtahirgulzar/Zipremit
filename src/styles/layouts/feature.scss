@@ -1,0 +1,136 @@
+.feature-box {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+
+  &.style-1 {
+    text-align: center;
+
+    .feature-box-icon {
+      font-size: 40px;
+      line-height: 40px;
+      margin-bottom: .5rem;
+
+      &.primary {
+        color: var(--primary);
+      }
+
+      &.secondary {
+        color: #dee2e6;
+      }
+    }
+    
+    .feature-box-text {
+      width: 120px;
+      height: 120px;
+      display: flex;
+      flex-shrink: 0;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1.5rem;
+      font-weight: 500;
+      font-size: 5.75rem;
+
+      &.primary {
+        color: var(--primary);
+        border-bottom: 1px solid var(--primary);
+      }
+
+      &.secondary {
+        color: #dee2e6;
+        border-bottom: 1px solid #dee2e6;
+      }
+    }
+  }
+
+  &.style-2 {
+    padding-left: 90px;
+
+    .feature-box-icon {
+      width: 70px;
+      height: 70px;
+      font-size: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: var(--primary);
+      border: 1px solid var(--primary);
+      border-radius: 50%;
+    }
+  }
+
+  &.style-3 {
+    text-align: center;
+    background: #fff;
+    border: 1px solid #f0f2f3;
+    -webkit-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.05);
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+
+    &:hover {
+      border: 1px solid #ebeded;
+      -webkit-box-shadow: 0px 5px 1.5rem rgba(0, 0, 0, 0.15);
+      box-shadow: 0px 5px 1.5rem rgba(0, 0, 0, 0.15);
+    }
+
+    .feature-box-icon {
+      margin: 44px 0;
+      font-size: 50px;
+
+      &.primary {
+        color: var(--primary);
+      }
+    }
+
+    .feature-box-image {
+      margin: 44px 0;
+    }
+
+    h3 {
+      padding: 16px 0;
+      margin-bottom: 0px;
+      font-size: 16px;
+      background: #f1f5f6;
+    }
+  }
+
+  &.style-4 {
+    text-align: center;
+
+    .feature-box-icon {
+      margin: 0 auto 1.5rem;
+      width: 120px;
+      height: 120px;
+      text-align: center;
+      flex-shrink: 0;
+      display: -webkit-box;
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      font-size: 40px;
+      line-height: 45px;
+      padding: 0;
+      border-radius: 50% !important;
+      border: 1px solid #dee2e6 !important;
+
+      &.light {
+        color: #dee3e4 !important;
+      }
+
+      svg {
+        font-size: 3.625rem;
+        margin: 0 auto;
+      }
+    }
+  }
+
+  h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+}

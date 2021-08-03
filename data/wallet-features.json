@@ -1,0 +1,31 @@
+[
+  {
+    "feature": "Transfer funds",
+    "highlight": "Wallet2Wallet- move funds from one wallet to another in a second. FREE it cost you nothing",
+    "extra": "Peer2Peer- move funds from one person to another- FREE and cost you nothing"
+  },
+  {
+    "feature": "Fund wallet",
+    "highlight": "Other methods such as credit/debit card will have a small service charge associated with depositing funds to wallet. Always use email or INTERAC Online."
+  },
+  {
+    "feature": "Withdraw funds",
+    "highlight": "Our users can withdraw funds freely from their wallet to their linked bank account"
+  },
+  {
+    "feature": "Receive funds",
+    "highlight": "Receive funds from your friends within ZIPREMIT, RITA Money Transfer and ZIPEXCHANGE networks"
+  },
+  {
+    "feature": "Send money from your wallet"
+  },
+  {
+    "feature": "Send airtime from your wallet"
+  },
+  {
+    "feature": "Send food from your wallet"
+  },
+  {
+    "feature": "Buy event ticket from your wallet"
+  }
+]

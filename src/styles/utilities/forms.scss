@@ -1,0 +1,59 @@
+// error display
+.input-error {
+  width: 100%;
+  font-size: 80%;
+  margin-top: 0.25rem;
+  color: var(--danger);
+}
+
+// newsletter subscription
+.newsletter {
+  .form-control {
+    height: 38px !important;
+    font-size: 14px;
+  }
+
+  .btn {
+    height: 38px;
+    padding-top: 0;
+    padding-bottom: 0px;
+    font-size: 14px;
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+}
+
+// track input
+.track {
+  display: flex;
+  justify-content: center;
+  
+  .input-group {
+    flex-basis: calc(100% - 208px);
+
+    input {
+      height: 60px;
+      border: none;
+      border-radius: 50px;
+      padding-left: 1.5rem;
+    }
+
+    .btn {
+      width: 200px;
+      border: 1px solid #fff;
+      border-top-right-radius: 50px;
+      border-bottom-right-radius: 50px;
+    }
+  }
+}
+
+// form control variant
+.form-control {
+  &.underline {
+    padding: 0;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+  }
+}
+

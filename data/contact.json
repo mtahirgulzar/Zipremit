@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "map-marker-alt",
+    "heading": "ZIPCOIN REMIT LTD",
+    "description": "ZIPCOIN REMIT HQ (D21),<br />191-260300 Writing Creek Crescent, Rocky View County, Alberta T4A 0X8, Canada"
+  },
+  {
+    "icon": "phone",
+    "heading": "Telephone",
+    "description": "<a href='tel:+403-389-6948'>+403-389-6948</a>"
+  },
+  {
+    "icon": "envelope",
+    "heading": "Business Inquiries",
+    "description": "<a href='mailto:info@zipcoinremit.com'>info@zipcoinremit.com</a>"
+  },
+  {
+    "icon": "envelope",
+    "heading": "Mailing Address",
+    "description": "ZIPCOIN REMIT LTD<br /><br />P. O BOX 40768, #20-12192 Symons Valley Rd, NW, Calgary, AB, T3P 0A0, Canada"
+  }
+]

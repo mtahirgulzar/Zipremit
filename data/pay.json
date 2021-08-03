@@ -1,0 +1,21 @@
+[{
+        "method": "Debit/Credit Card",
+        "image": "./photos/pay/card.png"
+    },
+    {
+        "method": "INTERAC e-Transfer",
+        "image": "./photos/pay/interac.png"
+    },
+    {
+        "method": "Email Payment (INTERAC)",
+        "image": "./photos/pay/email.png"
+    },
+    {
+        "method": "ZipWallet",
+        "image": "./photos/pay/zipwallet.png"
+    },
+    {
+        "method": "Pay With My Bank",
+        "image": "./photos/pay/bank.png"
+    }
+]

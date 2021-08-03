@@ -1,0 +1,48 @@
+[
+  {
+    "currency": "cad",
+    "text": "CAD",
+    "subtext": "Canadian Dollar",
+    "methods": [
+      {"method": "email", "title": "E-Mail Payment"},
+      {"method": "interac-online", "title": "INTERAC Online"},
+      {"method": "credit-cards", "title": "Debit/Credit Card"}
+    ]
+  },
+  {
+    "currency": "usd",
+    "text": "USD",
+    "subtext": "United States Dollar",
+    "methods": [
+      {"method": "zipwallet", "title": "ZipWallet"},
+      {"method": "credit-cards", "title": "Debit/Credit Card"}
+    ]
+  },
+  {
+    "currency": "gbp",
+    "text": "GBP",
+    "subtext": "British Pound",
+    "methods": [
+      {"method": "zipwallet", "title": "ZipWallet"},
+      {"method": "credit-cards", "title": "Debit/Credit Card"}
+    ]
+  },
+  {
+    "currency": "eur",
+    "text": "EUR",
+    "subtext": "Euro",
+    "methods": [
+      {"method": "zipwallet", "title": "ZipWallet"},
+      {"method": "credit-cards", "title": "Debit/Credit Card"}
+    ]
+  },
+  {
+    "currency": "zar",
+    "text": "ZAR",
+    "subtext": "South African Rand",
+    "methods": [
+      {"method": "zipwallet", "title": "ZipWallet"},
+      {"method": "credit-cards", "title": "Debit/Credit Card"}
+    ]
+  }
+]

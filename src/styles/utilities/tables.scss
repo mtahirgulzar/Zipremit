@@ -1,0 +1,79 @@
+.managers {
+  text-align: center;
+
+  th {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 15px 20px;
+    background-color: var(--secondary);
+    border-top-color: var(--secondary);
+    border-bottom-color: var(--secondary);
+    border-left-color: var(--secondary);
+
+    &:last-of-type {
+      border-right-color: var(--secondary);
+    }
+  }
+
+  td {
+    color: #2f2f35;
+    padding: 15px 20px;
+    vertical-align: middle;
+
+    img {
+      max-width: 80px;
+      height: auto;
+    }
+  }
+}
+
+.customer-plans, .coverage-table {
+  width: 100%;
+  overflow-x: auto;
+  display: inline-block;
+
+  table {
+    text-align: center;
+
+    th {
+      color: #fff;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 15px 20px;
+      white-space: nowrap;
+      background-color: var(--secondary);
+      border-top-color: var(--secondary);
+      border-bottom-color: var(--secondary);
+      border-left-color: var(--secondary);
+  
+      &:last-of-type {
+        border-right-color: var(--secondary);
+      }
+    }
+
+    td {
+      padding: 15px 20px;
+      white-space: nowrap;
+      vertical-align: middle;
+    }
+  }
+}
+
+.coverage-table {
+  table {
+    th {
+      vertical-align: middle;
+      white-space: normal !important;
+      line-height: 0.9 !important;
+  
+      small {
+        font-size: 12px;
+      }
+    }
+  
+    td {
+      white-space: normal !important;
+    }
+  }
+}

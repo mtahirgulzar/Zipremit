@@ -1,0 +1,102 @@
+// Import Rubik Font from Google
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
+
+// Import Bootstrap Styles
+@import './bootstrap.scss';
+
+// Import Currency Flags
+@import './currency-flags.scss';
+
+// Import Utility Styles
+@import './utilities/colors.scss';
+@import './utilities/backgrounds.scss';
+@import './utilities/buttons.scss';
+@import './utilities/forms.scss';
+@import './utilities/others.scss';
+@import './utilities/typography.scss';
+@import './utilities/youtube.scss';
+@import './utilities/lists.scss';
+@import './utilities/tables.scss';
+@import './utilities/address.scss';
+@import './utilities/carousel.scss';
+@import './utilities/accordion.scss';
+
+// Import Layout Styles
+@import './layouts/section.scss';
+@import './layouts/background.scss';
+@import './layouts/feature.scss';
+@import './layouts/banner.scss';
+@import './layouts/profile.scss';
+@import './layouts/grid.scss';
+@import './layouts/hamper.scss';
+@import './layouts/tabs.scss';
+
+// Import Section Styles
+@import './sections/header.scss';
+@import './sections/footer.scss';
+@import './sections/coverage.scss';
+
+/**
+*
+* Custom HtML Styles
+*
+*/
+
+// body
+body {
+  font-size: 14px;
+  color: #4c4d4d;
+  line-height: 22px;
+  background: #f1f5f6;
+  font-family: "Rubik", sans-serif;
+}
+
+// headings : h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h5, h6 {
+  color: #1e1d1c;
+}
+
+h1, h2 {
+  text-transform: uppercase;
+}
+
+h2 {
+  @media only screen and (max-width: 1299px) {
+    font-size: 1.7em;
+  }
+}
+
+h4 {
+  @media only screen and (max-width: 768px) {
+    font-size: 1rem;
+    font-weight: 600;
+  }
+}
+
+h6 {
+  font-size: 14px;
+}
+
+// paragraphs
+p {
+  font-size: 13px;
+  line-height: 1.9;
+}
+
+// links
+a {
+  font-size: 13px;
+
+  &:focus {
+    color: var(--primary);
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+  }
+
+  &:active, &:hover {
+    color: var(--primary);
+    text-decoration: none;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+  }
+}

@@ -1,0 +1,49 @@
+.section {
+  padding: 6.5rem 0;
+  position: relative;
+
+  &.bg-primary, &.bg-secondary {
+    color: #fff;
+
+    h2, h3, h4 {
+      color: #fff;
+    }
+  }
+
+  .section-heading {
+    text-align: center;
+    margin-bottom: 36px;
+
+    .section-title {
+      font-size: 36px;
+      margin-bottom: 0;
+      color: #2f2f35;
+      line-height: 48px;
+      text-transform: capitalize;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    padding: 3.5rem 0;
+  }
+
+  &.transfer-amounts {
+    h4 {
+      font-size: 1.2rem;
+    }
+  }
+
+  &.secondary {
+    padding: 1rem 0;
+
+    h5 {
+      color: #0e314c;
+      font-weight: 400;
+    }
+
+    p {
+      font-size: 14px;
+      color: #5d7079;
+    }
+  }
+}

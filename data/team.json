@@ -1,0 +1,51 @@
+[{
+        "image": "./photos/team/kim.jpg",
+        "name": "CATHRINE (KIM) CHIVHIMA",
+        "title": "(FOUNDER & CEO | CAMLO)",
+        "social": [{
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/cathrine-kim-c-b5513113/"
+        }]
+    },
+    {
+        "image": "./photos/team/eddie.jpg",
+        "name": "EDDIE ZVIITWAH",
+        "title": "(PRESIDENT)"
+    },
+    {
+        "image": "./photos/team/albert.jpeg",
+        "name": "ALBERT ARTHUR BROWN",
+        "title": "(MSC | GHANA COUNTRY MANAGER | EXECUTIVE BUSINESS DEVELOPMENT OFFICER)",
+        "social": [{
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/albert-arthur-brown-275765a/"
+        }]
+    },
+    {
+        "image": "./photos/team/tawanda.png",
+        "name": "TAWANDA TORE",
+        "title": "(CHIEF COMPLIANCE OFFICER | REMITTANCE SPECIALIST)",
+        "social": [{
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/tawanda-tore-97025791/"
+        }]
+    },
+    {
+        "image": "./photos/team/lekato.jpg",
+        "name": "LEKATO OLALEKAN",
+        "title": "(DIGITAL CURRENCY & BLOCKCHAIN EXPERT | NIGERIA COUNTRY MANAGER)",
+        "social": [{
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/lekato-lekato-530b3415b/"
+        }]
+    },
+    {
+        "image": "./photos/team/georges.jpg",
+        "name": "GEORGES PIGUOE",
+        "title": "(CHIEF SALES OFFICER | CAMEROON COUNTRY MANAGER)",
+        "social": [{
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/georges-pigoue-b290a444/"
+        }]
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "download",
+    "heading": "Debit/Credit Card",
+    "description": "You can easily withdraw funds to your local bank account in local currency at excellent rates.",
+    "extra": "up to 4.25%"
+  },
+  {
+    "icon": "upload",
+    "heading": "Send Fees",
+    "description": "First company to offer lowest flat rates across the globe. Start saving 3X cheaper than our competitors. Send money as low as $4.99 with us."
+  },
+  {
+    "icon": "hand-holding-usd",
+    "heading": "ZipWallet",
+    "description": "Always save and send from your e-wallet",
+    "extra": "0.50"
+  },
+  {
+    "icon": "exchange-alt",
+    "heading": "Currency Conversion",
+    "description": "We always give you the mid-market rate, which is the fairest exchange rate.",
+    "extra": "up to 0.4%"
+  },
+  {
+    "icon": "user",
+    "heading": "Email Payment",
+    "description": "Only for Canadian customers, Save more with email payment today",
+    "extra": "CAD 1.00"
+  },
+  {
+    "icon": "user",
+    "heading": "INTERAC e-Transfer",
+    "description": "Only for Canadian customers.",
+    "extra": "CAD 1.49"
+  }
+]

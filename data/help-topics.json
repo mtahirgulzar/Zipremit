@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "user-circle",
+    "topic": "My Account",
+    "link": "/"
+  },
+  {
+    "icon": "money-check-alt",
+    "topic": "Payment",
+    "link": "/"
+  },
+  {
+    "icon": "shield-alt",
+    "topic": "Security",
+    "link": "/"
+  },
+  {
+    "icon": "credit-card",
+    "topic": "Payment Methods",
+    "link": "/"
+  }
+]

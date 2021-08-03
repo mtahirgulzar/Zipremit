@@ -1,0 +1,229 @@
+// Theme Colors
+$theme-colors: (
+  "primary": #c88c39,
+  "secondary": #dba84e,
+);
+
+// Required
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+
+// Optional
+@import '~bootstrap/scss/root';
+@import '~bootstrap/scss/reboot';
+@import '~bootstrap/scss/type';
+@import "~bootstrap/scss/images";
+//@import "~bootstrap/scss/code";
+@import "~bootstrap/scss/grid";
+@import "~bootstrap/scss/tables";
+@import "~bootstrap/scss/forms";
+@import "~bootstrap/scss/buttons";
+@import "~bootstrap/scss/transitions";
+@import "~bootstrap/scss/dropdown";
+//@import "~bootstrap/scss/button-group";
+@import "~bootstrap/scss/input-group";
+//@import "~bootstrap/scss/custom-forms";
+@import "~bootstrap/scss/nav";
+@import "~bootstrap/scss/navbar";
+@import "~bootstrap/scss/card";
+//@import "~bootstrap/scss/breadcrumb";
+//@import "~bootstrap/scss/pagination";
+//@import "~bootstrap/scss/badge";
+//@import "~bootstrap/scss/jumbotron";
+@import "~bootstrap/scss/alert";
+//@import "~bootstrap/scss/progress";
+//@import "~bootstrap/scss/media";
+//@import "~bootstrap/scss/list-group";
+@import "~bootstrap/scss/close";
+//@import "~bootstrap/scss/toasts";
+@import "~bootstrap/scss/modal";
+@import "~bootstrap/scss/tooltip";
+//@import "~bootstrap/scss/popover";
+//@import "~bootstrap/scss/carousel";
+//@import "~bootstrap/scss/spinners";
+@import "~bootstrap/scss/utilities";
+//@import "~bootstrap/scss/print";
+
+// Bootstrap Select CSS
+@import "~bootstrap-select/sass/bootstrap-select.scss";
+
+/**
+*
+* Bootsrap Customization
+*
+*/
+
+// containers
+.container {
+  @media only screen and (min-width: 1200px) {
+    max-width: 1170px !important;
+  }
+}
+
+// text
+.text-light {
+  color: #dee3e4 !important;
+}
+
+.text-muted {
+  color: #8e9a9d !important;
+}
+
+.text-body {
+  color: #4c4d4d !important;
+}
+
+// backgrounds
+.bg-dark {
+  background-color: #111418 !important;
+}
+
+// shadows
+.shadow-md {
+  -webkit-box-shadow: 0px 0px 50px -35px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 0px 50px -35px rgba(0, 0, 0, 0.4);
+}
+
+// buttons
+.btn {
+  &:not(.select) {
+    padding: .8rem 1rem;
+    font-weight: 500;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    border-radius: 2px;
+    text-transform: capitalize;
+    font-size: 15px;
+
+    &:not(.btn-link), &:not(.dropdown-toggle) {
+      -webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+      box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+  
+      &:hover {
+        -webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+        box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+      }
+    }
+  }
+}
+
+.btn-secondary {
+  color: white;
+
+  &:hover {
+    color: white;
+    border-color: var(--secondary);
+    background-color: var(--secondary);
+  }
+}
+
+.btn-outline-light {
+  color: var(--secondary);
+
+  &:hover {
+    color: var(--primary);
+  }
+}
+
+.btn-link {
+  &:hover {
+    color: var(--primary) !important;
+  }
+}
+
+.btn-light {
+  color: var(--primary);
+
+  &:hover {
+    color: var(--primary);
+  }
+}
+
+// forms
+.form-control, .select {
+  border-color: #dae1e3;
+  font-size: 16px;
+  color: #656565;
+
+  &:not(.form-control-sm) {
+    padding: .810rem .96rem;
+    height: inherit;
+  }
+
+  &:focus {
+    border-color: var(--blue);
+    -webkit-box-shadow: 0 0 5px rgba(128, 189, 255, 0.5);
+    box-shadow: 0 0 5px rgba(128, 189, 255, 0.5);
+  }
+
+  &:focus[readonly] {
+    box-shadow: none;
+  }
+
+  &::-webkit-input-placeholder {
+    color: #b1b4b6;
+  }
+
+  &:-moz-placeholder {
+    color: #b1b4b6;
+  }
+
+  &::-moz-placeholder {
+    color: #b1b4b6;
+  }
+
+  &:-ms-input-placeholder {
+    color: #b1b4b6;
+  }
+}
+
+.bootstrap-select {
+  padding: 0 !important;
+
+  .dropdown-toggle {
+    &:focus {
+      outline: none !important;
+    }
+  }
+
+  .currency-flag {
+    margin-right: .25rem;
+  }
+
+  .dropdown-menu {
+    a {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
+// input groups
+.input-group {
+  margin-bottom: 1.25em;
+
+  .select {
+    padding: 0;
+    border: none;
+    background: transparent;
+
+    &:focus {
+      border: none;
+      box-shadow: none;
+    }
+  }
+
+  .bootstrap-select {
+    background: transparent;
+
+    .dropdown-toggle {
+      .filter-option-inner-inner {
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+}

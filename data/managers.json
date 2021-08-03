@@ -1,0 +1,62 @@
+[
+  {
+    "flag": "./photos/flags/ghana.png",
+    "country": "Ghana",
+    "manager": "Albert Brown"
+  },
+  {
+    "flag": "./photos/flags/south-sudan.png",
+    "country": "South Sudan",
+    "manager": "Kim Chivhima"
+  },
+  {
+    "flag": "./photos/flags/nigeria.png",
+    "country": "Nigeria",
+    "manager": "Lekato"
+  },
+  {
+    "flag": "./photos/flags/somalia.png",
+    "country": "Somalia",
+    "manager": "Abdul"
+  },
+  {
+    "flag": "./photos/flags/tanzania.png",
+    "country": "Tanzania",
+    "manager": "Kim Chivhima"
+  },
+  {
+    "flag": "./photos/flags/uganda.png",
+    "country": "Uganda",
+    "manager": "Kim Chivhima"
+  },
+  {
+    "flag": "./photos/flags/kenya.png",
+    "country": "Kenya",
+    "manager": "Nicholas Ngumbi"
+  },
+  {
+    "flag": "./photos/flags/zimbabwe.png",
+    "country": "Zimbabwe",
+    "manager": "Mwandibhuya Kennedy Mutepfa"
+  },
+  {
+    "flag": "./photos/flags/cameroon.png",
+    "country": "Cameroon",
+    "manager": "Georges Pigoue"
+  },
+  {
+    "flag": "./photos/flags/benin.png",
+    "country": "Benin",
+    "manager": "Amos Sani"
+  },
+  {
+    "flag": "./photos/flags/drc.png",
+    "country": "DRC Kinshasa",
+    "manager": "Charley Ngonga"
+  },
+  {
+    "flag": "./photos/flags/congo.png",
+    "country": "Congo Brazzaville",
+    "manager": "Charley Ngonga"
+  }
+]

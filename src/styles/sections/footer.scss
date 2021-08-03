@@ -1,0 +1,57 @@
+footer {
+  &.primary {
+    color: #252b33;
+    padding: 4.125rem 0;
+    position: relative;
+    padding-bottom: 1.5rem;
+    background-color: #fdfdfd;
+    border-top: 1px solid #ecf3f5;
+
+    .nav {
+      &.flex-column {
+        .nav-item {
+          padding: 0;
+
+          .nav-link {
+            margin: 0.7rem 0px;
+          }
+        }
+      }
+
+      .nav-item {
+        display: inline-block;
+        line-height: 16px;
+        margin: 0;
+        padding: 0 10px;
+
+        &:first-child {
+          padding-left: 0px;
+        }
+
+        &:last-child {
+          padding-right: 0px;
+        }
+
+        .nav-link {
+          padding: 0;
+          margin: 0.5rem 0px;
+          color: #252b33;
+          -webkit-transition: all 0.2s ease;
+          transition: all 0.2s ease;
+
+          &:focus, &:hover {
+            color: var(--primary);
+            -webkit-transition: all 0.2s ease;
+            transition: all 0.2s ease;
+          }
+        }
+      }
+    }
+
+    .copyright {
+      padding: 0;
+      color: #67727c;
+      border-top: 1px solid #e2e8ea;
+    }
+  }
+}

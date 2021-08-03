@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "hand-pointer",
+    "heading": "Easy to Use",
+    "description": "User-friendly online way to send money in 3 simple steps."
+  },
+  {
+    "icon": "share",
+    "heading": "Faster Transfers",
+    "description": "We know that speed is important when transferring money abroad. Simply select your beneficiary, enter the amount, and send. We zip your cash instantly, fast and in minutes."
+  },
+  {
+    "icon": "dollar-sign",
+    "heading": "Lower Fees",
+    "description": "Unbeatable low flat fees and foreign exchange rates across all countries are shown upfront."
+  },
+  {
+    "icon": "lock",
+    "heading": "100% Secure",
+    "description": "With around the clock money monitoring, encryption and fraud protection, ZipRemit helps keep your money safe. Fully licensed and regulated by FINTRAC."
+  },
+  {
+    "icon": "lock",
+    "heading": "24/7 Customer Service",
+    "description": "Awesome and friendly online chats with our Community Liaisons (CLs) anytime, anywhere and for anyone."
+  },
+  {
+    "icon": "lock",
+    "heading": "Flexible Payments",
+    "description": "Pay with Debit, Credit card, Email or your ZipWallet. Receive in hard cash, airtime, mobile money, bank deposit, food, data or ZipWallet."
+  }
+]

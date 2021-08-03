@@ -1,0 +1,65 @@
+.modal {
+  .youtube {
+    .modal-content {
+      border: none;
+      background: transparent;
+
+      .close {
+        color: white;
+        font-weight: 400;
+        margin-left: auto;
+      }
+    }
+  }
+}
+
+figure {
+  margin: 0;
+
+  &.youtube {
+    position: relative;
+
+    > figure {
+      width: 100%;
+      display: block;
+      position: relative;
+
+      img {
+        width: 100%;
+        height: auto;
+        display: block;
+        position: relative;
+
+        &:first-of-type {
+          max-width: 560px;
+        }
+
+        &:last-of-type {
+          max-width: 360px;
+          top: -90px;
+          left: -50px;
+          box-shadow: 5px 6px 8px rgba(0, 0, 0, 0.27);
+        }
+      }
+    }
+
+    button {
+      width: 60px;
+      height: 60px;
+      border: none;
+      color: inherit;
+      display: block;
+      text-align: center;
+      border-radius: 50% !important;
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 20%;
+      margin: 3rem auto 0 !important;
+      background-color: var(--primary);
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+  }
+}
